@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisNogal?tab=repositories](https://github.com/LuisNogal?tab=repositories)
 
-- 💬 Ask me about **c#, EntityFrameworkCore, DB's.**
+- 💬 Ask me about **C#, EntityFrameworkCore, DB's.**
 
 - 📫 How to reach me **luis.nogal@sciodesk.com**
 
